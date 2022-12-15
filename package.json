@@ -23,7 +23,7 @@
     "csurf": "^1.9.0",
     "csv-stringify": "^5.3.6",
     "escape-string-regexp": "^1.0.5",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-flash": "0.0.2",
     "express-session": "^1.12.1",
     "git-rev": "^0.2.1",
